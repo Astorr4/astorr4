@@ -20,7 +20,7 @@
 
 ###
 
-<h3 align="left">👩‍💻  Обо мне:</h3>
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=07F750&width=435&lines=%F0%9F%91%A9%E2%80%8D%F0%9F%92%BB++%D0%9D%D0%B5%D0%BC%D0%BD%D0%BE%D0%B3%D0%BE+%D0%BF%D1%80%D0%BE+%D0%BC%D0%B5%D0%BD%D1%8F%3A)](https://git.io/typing-svg)
 
 ###
 
@@ -28,7 +28,7 @@
 
 ###
 
-<h3 align="left">🛠 Технологии:</h3>
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=07F750&width=435&lines=%F0%9F%9B%A0+%D0%A2%D0%B5%D1%85%D0%BD%D0%BE%D0%BB%D0%BE%D0%B3%D0%B8%D0%B8%3A)](https://git.io/typing-svg)
 
 ###
 
@@ -55,7 +55,7 @@
 
 ###
 
-<h3 align="left">📜 Сертификаты:</h3>
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=07F750&width=435&lines=%F0%9F%93%9C+%D0%9C%D0%BE%D0%B8+%D1%81%D0%B5%D1%80%D1%82%D0%B8%D1%84%D0%B8%D0%BA%D0%B0%D1%82%D1%8B%3A)](https://git.io/typing-svg)
 
 ###
 
@@ -75,15 +75,14 @@
 
 ###
 
-<h3 align="left">🔥   Моя статистика :</h3>
-
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=07F750&width=435&lines=%F0%9F%94%A5+%D0%9C%D0%BE%D1%8F+%D1%81%D1%82%D0%B0%D1%82%D0%B8%D1%81%D1%82%D0%B8%D0%BA%D0%B0%3A)](https://git.io/typing-svg)
 
 ###
 
 <div align="center">
 
 ![Codewars](https://github.r2v.ch/codewars?user=astorr4&stroke=%23BB432C)
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=astorr4&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=astorr4&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 </div>
 
 ###
