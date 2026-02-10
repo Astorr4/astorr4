@@ -24,18 +24,11 @@
 
 ###
 
-<div align="left">
+###
 
-  <img width="12" />
-  <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/python.png" height="40" />
-  <img width="12" />
-  <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/mysql.png" height="40" />
-  <img width="12" />
-  <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/git.png" height="40"/>
-  <img width="12" />
-  <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/pycharm.png" height="40"/>
-  <img width="12" />
-  <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/visual_studio_code.png" height="40"/>
+<p align="center">
+ <img width="600" src="assets/github-snake.svg" alt="snake"/>
+</p>
 
-</div>
+###
 
