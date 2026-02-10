@@ -9,17 +9,6 @@
 
 ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=3000&pause=3000&color=4324F7&center=true&width=700&height=70&lines=%F0%9F%91%8B+%D0%9F%D1%80%D0%B8%D0%B2%D0%B5%D1%82%2C+%D0%BC%D0%B5%D0%BD%D1%8F+%D0%B7%D0%BE%D0%B2%D1%83%D1%82+%D0%90%D0%BD%D0%B4%D1%80%D0%B5%D0%B9!+%F0%9F%91%8B)
 
-</div>
-
-###
-<div align="center">
-
-[![Stepik](https://img.shields.io/badge/-📚🧑‍🎓Stepik-545454?style=for-the-badge&logo=Stepik&logoColor=e32b2b)](https://stepik.org/users/351710451/profile)
-[![Telegram](https://img.shields.io/badge/-Telegram-545454?style=for-the-badge&logo=telegram&logoColor=27A0D9)](https://t.me/net_da_net)
-
-
-</div>
-
 
 ###
 
@@ -61,20 +50,6 @@
 ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=07F750&width=435&lines=%F0%9F%93%9C+%D0%9C%D0%BE%D0%B8+%D1%81%D0%B5%D1%80%D1%82%D0%B8%D1%84%D0%B8%D0%BA%D0%B0%D1%82%D1%8B%3A)
 
 ###
-
-<div align="left">
-
-  [🏆 "Поколение Python": Курс для начинающих](https://stepik.org/cert/1574911)<br>
-  [🏆 "Поколение Python": Курс для продвинутых](https://stepik.org/cert/1980018)<br>
-  [🏆 "Поколение Python": Курс для профессионалов](https://stepik.org/cert/2155863)<br>
-  [🏆 Git для всех](https://stepik.org/cert/2110509)<br>
-  [🏆 Python: основы и применение](https://stepik.org/cert/2165890)<br>
-  [🏆 WEB парсинг на Python](https://stepik.org/cert/2190561)<br>
-  [🏆 Введение в Linux](https://stepik.org/cert/2482597)<br>
-  [🏆 "Поколение Python": ООП](https://stepik.org/cert/2667516)<br>
-
-
-</div>
 
 ###
 
